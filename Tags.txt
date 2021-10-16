@@ -1,0 +1,29 @@
+Comandos e tags
+
+< > - são as tags, a maioria tem abertura e fechamento
+
+<!DOCTYPE html> - diz ao navegador que o documento é do tipo HTML 5
+
+<html> </html> - o que for entre essas tags será considerado um documento html.
+
+Tag sem fechamento: pode usar / no final
+
+<html lang="pt-br"> - parâmetro que indica o idioma.
+
+<head> </head> - cabeçalho do documento, que indica as configurações comportamentais do site. 
+
+CSS: formatação de cores, fontes etc no documento. Como é comportamental, vai no head. 
+
+<style> </style> - configura tudo que for relacionado ao estilo da página. 
+
+exemplo: h1 { código } - tudo que estiver dentro das chaves recebe a formatação h1 (dentro de style, pelo CSS)
+
+<body> </body> - corpo do site, que mostra a parte visual do site. 
+
+<title> </title> - indica o que aparece na aba do navegador. 
+
+<h1> </h1> - título principal na hierarquia
+
+
+
+
